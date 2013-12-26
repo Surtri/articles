@@ -22,7 +22,7 @@ Sometimes I wonder how these people found the internet at all without accidental
 
 "),
 	array(
-	'title' => 'This is my first article',
+	'title' => 'War! What is it good for? Sales.',
 	'subtitle' => 'This is my first subtitle',
 	'datemaj' => 'jan',
 	'datemin' => 'uary',
@@ -31,6 +31,17 @@ Sometimes I wonder how these people found the internet at all without accidental
 	'imgurl' => '',
 	'socials' => array('4','5','6','7'),
 	//'' => '',
-	'body' => "We'll call that a practice run...")
+	'body' => "In the midst of the console war fueled by angry teenagers taking to their computers to vent their ill-created hatred towards huge companies, it’s worth remembering why these arguments are so important.
+
+In any argument, it’s only by one side bringing up points do the other ones even question what they’re shouting about, and these nice, loud and often pointless questions are what get heard.
+
+If a question was loud and smart enough it gathers more voices, more voices snowball into blog posts, blog posts to videos, videos to angry letters and ultimately all of this serves two purposes:
+
+1. Getting the fans in contact with the developers (And the smart developers responding)
+
+2. Free advertising for developers.
+
+However if public relations was a competition, Microsoft would currently be at the starting line putting it’s shoes on the wrong feet. Sony has had it’s teams working tirelessly on social media to answer any questions their fans may have whereas Microsoft have been on social media TELLING their fans what questions they should have.
+Consoles aside, it’s clear to see that America is losing on the charm front, and before release, that’s the only weapon either side has.")
 );
 ?>
